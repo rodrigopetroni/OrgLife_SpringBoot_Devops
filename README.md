@@ -1,7 +1,7 @@
 #  🥼 **Orglife - 2TDSR**
 
 ## 💻 Descrição do Projeto
-Projeto feito para a Global Solution, com a proposta de simular uma clínica de órgãos. Utilizamos o framework Spring e utilizando a plataforma Azure para o Deploy da aplicação e para a utilização do banco de dados Azure SQL Database.
+Projeto feito para a Global Solution, com a proposta de criar o app da nossa clínica de órgãos. Utilizamos o framework Spring e utilizando a plataforma Azure para o Deploy da aplicação e para a utilização do banco de dados Azure SQL Database.
 
 ## ⚙️ Endpoints:
 * Link da aplicação para teste dos endpoints: https://global-orglife-springboot.azurewebsites.net
