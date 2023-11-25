@@ -119,5 +119,5 @@ Links para os vídeos referente ao funcionamento do projeto e referente ao pitch
 ### Vídeo Pitch
 *
 
-### Vídeo do funcionamento do projeto (Aplicação e Teste de persistência no banco com os referentes CRUDs)
-*
+### Vídeo do funcionamento do projeto (Aplicação e Teste de Persistência no Banco com os referentes CRUDs)
+* https://youtu.be/SA-jO6vpyCM
