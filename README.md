@@ -117,7 +117,7 @@ Segue abaixo nome dos integrantes que auxiliaram na realização do projeto:
 Links para os vídeos referente ao funcionamento do projeto e referente ao pitch do projeto:
 
 ### Vídeo Pitch
-*
+* https://youtu.be/arG7gNc4fGY
 
 ### Vídeo do funcionamento do projeto (Aplicação e Teste de Persistência no Banco com os referentes CRUDs)
 * https://youtu.be/SA-jO6vpyCM
