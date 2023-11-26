@@ -3,6 +3,9 @@
 ## 💻 Descrição do Projeto
 Projeto feito para a Global Solution, com a proposta de criar o app da nossa clínica de órgãos. Utilizamos o framework Spring e utilizando a plataforma Azure para o Deploy da aplicação e para a utilização do banco de dados Azure SQL Database.
 
+## 📷 Prints
+Os prints se encontram dentro da pasta
+
 ## ⚙️ Endpoints:
 * Link da aplicação para teste dos endpoints: https://global-orglife-springboot.azurewebsites.net
 ### Login:
